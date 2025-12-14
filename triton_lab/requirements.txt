@@ -1,0 +1,6 @@
+transformers
+torch
+numpy
+pytest
+requests
+tritonclient[http]
